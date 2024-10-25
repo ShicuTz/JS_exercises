@@ -1,0 +1,25 @@
+{
+  "name": "@shicutz/js_exercises",
+  "version": "1.0.0",
+  "description": "js functions",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShicuTz/JS_exercises.git"
+  },
+  "keywords": [
+    "exercises"
+  ],
+  "author": "Dana D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShicuTz/JS_exercises/issues"
+  },
+  "homepage": "https://github.com/ShicuTz/JS_exercises#readme"
+}

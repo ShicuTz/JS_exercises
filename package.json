@@ -1,0 +1,29 @@
+{
+  "name": "@shicutz/js_exercises",
+  "version": "1.0.0",
+  "description": "JS Exercises",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --forbid-only --reporter mochawesome test/**/*.spec.js",
+    "prepublishOnly": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShicuTz/JS_exercises.git"
+  },
+  "author": "Dana D",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShicuTz/JS_exercises/issues"
+  },
+  "homepage": "https://github.com/ShicuTz/JS_exercises#readme",
+  "devDependencies": {
+    "chai": "^4.5.0",
+    "mocha": "^10.7.3",
+    "mochawesome": "^7.1.3",
+    "prettier": "^3.3.3"
+  }
+}

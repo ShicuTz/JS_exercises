@@ -1,4 +1,4 @@
-const { repetitionMap } = require("../../JS_files/session_5/repetitionMap");
+const { repetitionMap } = require("../../src/index");
 const { expect } = require("chai");
 
 const TEST_DATA = {

@@ -1,4 +1,4 @@
-const { factors } = require("../../src/session5/factors");
+const { factors } = require("../../src/index");
 const { expect } = require("chai");
 
 const TEST_DATA = {

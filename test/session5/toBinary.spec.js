@@ -1,4 +1,4 @@
-const { toBinary } = require("../../JS_files/session_5/homework3.js");
+const { toBinary } = require("../../src/index");
 const { expect } = require("chai");
 
 const TEST_DATA = {

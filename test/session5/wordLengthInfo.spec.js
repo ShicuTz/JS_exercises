@@ -1,7 +1,4 @@
-const {
-  wordLengthInfo,
-  getWordsInStr,
-} = require("../../JS_files/session_5/homework2.js");
+const { wordLengthInfo, getWordsInStr } = require("../../src/index");
 const { expect } = require("chai");
 
 const TEST_DATA = {
